@@ -5,7 +5,7 @@
     --primary-color:rgb(203, 241, 29);
     --secondary-color: #fbfcb8;
     --text-color: #024959;
-    --background-color: #a18c78;
+    --background-color: #e27c1d;;
     --button-hover: #012E40;
     --font-body: "Chocolate Classical Sans", serif;
     --font-titulo: "Rakkas", serif;
